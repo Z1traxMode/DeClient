@@ -1,0 +1,23 @@
+pkg install python
+pip install datetime
+pip install getpass
+pip install argparse
+pip install requests
+pip install subprocess
+pip install multiprocessing
+pip install colorama
+pip install smtplib
+pkg install termimage
+pip install  signal
+pip install  atexit
+pip install  argparse
+pip install  random
+pip install  time
+pip install  hashlib
+pip install  re
+pip install  requests
+pip install  urllib3
+pip install bs4
+pip install  html5lib
+pip install  phonenumbers
+python DeClient.py
